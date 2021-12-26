@@ -12,7 +12,7 @@ Status: Developing
 """
 #--------------------------------#
 
-from scraping_data.function import *
+from StockScraping.function import *
 
 def daily_scraping():
 
